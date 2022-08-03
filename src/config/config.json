@@ -1,0 +1,31 @@
+{
+  "development": {
+    "username": "nnt30994_nnthotelproduction",
+    "password": "Dota2lolstarcraft",
+    "database": "nnt30994_nnt_hotel_production",
+    "host": "103.138.88.77",
+    "dialect": "mysql",
+    "logging": false,
+    "query": {},
+    "dialectOptions": {
+      "useUTC": false,
+      "dateStrings": true,
+      "typeCast": true
+    },
+    "timezone": "+07:00"
+  },
+  "test": {
+    "username": "nnt30994_nnthotelproduction",
+    "password": "Dota2lolstarcraft",
+    "database": "nnt30994_nnt_hotel_production",
+    "host": "103.138.88.77",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "nnt30994_nnthotelproduction",
+    "password": "Dota2lolstarcraft",
+    "database": "nnt30994_nnt_hotel_production",
+    "host": "103.138.88.77",
+    "dialect": "mysql"
+  }
+}
